@@ -1,0 +1,45 @@
+body{
+    background-color: gray;
+}
+.col{
+    background-color: rgb(106, 79, 156);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.col2{
+    background-color: rgb(106, 79, 156); ;
+}
+.col2 div a{
+    width: 100%;
+}
+.col2 h1{
+    margin-top: 20px;
+}
+.col2 p{
+    width: 100%;
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
+.row div{
+    width: 100%;
+}
+.nav-link{
+    color:blanchedalmond;
+}
+.nav-link:hover{
+    color:black
+}
+.img-fluid2{
+margin-top: 20px;
+border-radius: 50%;
+}
+img.fluid{
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+.container{
+    margin-top:20px;
+    margin-bottom:20px;
+}
